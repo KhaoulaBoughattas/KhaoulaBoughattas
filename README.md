@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Khawla+Boughattas;Data+Engineer+%7C+AI+Engineer+%7C+ML+Engineer;Turning+Data+into+Decisions%2C+Models+into+Impact;Currently+Building+Autonomous+%26+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Khawla+Boughattas;Data+%26+AI+Engineer+%7C+Fresh+Graduate+2026;Turning+Data+into+Decisions%2C+Models+into+Impact;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 
 ### 🎯 Data Engineer · AI Engineer · Machine Learning Engineer
-**Engineering Student in Data Engineering & Decision Support Systems @ ENET'Com**
+**Engineering Degree in Data Engineering & Decision Support Systems — ENET'Com, Class of 2026**
+
+<p>
+  <img src="https://img.shields.io/badge/🟢_Open_to_Work-success?style=for-the-badge" />
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/khaoula-boughattas-983597295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,30 +24,35 @@
 
 ## 🧭 About Me
 
-I'm a final-year **Data Engineering & Decision Support Systems** engineering student at **ENET'Com** (Sfax, Tunisia), building my career at the intersection of **Data Engineering**, **Machine Learning**, **LLMs/RAG**, and **MLOps**. Across three internships — in AI & Robotics, AI Engineering, and IT/Data Engineering — I've designed ETL pipelines, deployed real-time streaming systems, built production-grade AI applications, and shipped Power BI dashboards that drive real business decisions.
+I'm a newly graduated **Data & AI Engineer** (Engineering Degree in Data Engineering & Decision Support Systems, **ENET'Com**, Sfax — Class of 2026), now looking for a full-time role where I can build production-grade data and AI systems. Across three internships — in AI & Robotics, AI Engineering, and IT/Data Engineering — I've designed ETL pipelines, deployed real-time streaming systems, built production-grade AI applications, and shipped Power BI dashboards that drive real business decisions. I bridge the gap between raw data, intelligent systems, and measurable business impact.
 
 ```python
 class KhawlaBoughattas:
     def __init__(self):
         self.role = "Data Engineer & AI Engineer"
+        self.status = "Engineering Graduate — Class of 2026"
         self.location = "Sfax, Tunisia"
         self.education = "Data Engineering & Decision Support Systems, ENET'Com (2023-2026)"
         self.focus = ["Data Engineering", "MLOps", "LLMs & RAG", "Big Data", "Robotics AI"]
         self.languages = {"Arabic": "Native", "English": "Fluent", "French": "Fluent"}
+        self.availability = "Open to full-time opportunities"
 
-    def currently_working_on(self):
-        return "End-to-end ML/data systems — from ingestion to deployment"
+    def what_i_do(self):
+        return "Design and ship end-to-end ML/data systems — from ingestion to deployment"
 
     def fun_fact(self):
         return "I containerize robots and RAG pipelines with the same enthusiasm 🤖🐳"
 ```
 
-- 🔭 Building end-to-end **RAG systems** (Self-RAG, Adaptive RAG, Stack-RAG, HM-RAG) with LangChain, LlamaIndex & ChromaDB
+- 🎓 **Officially an Engineer** — graduated in July 2026 with a degree in Data Engineering & Decision Support Systems
+- 💼 3 completed internships spanning **AI/Robotics, AI Engineering, and IT/Data Engineering** at industrial and research organizations
+- 🔭 Experienced in building end-to-end **RAG systems** (Self-RAG, Adaptive RAG, Stack-RAG, HM-RAG) with LangChain, LlamaIndex & ChromaDB
 - ⚙️ Shipping **MLOps pipelines** — MLflow, Docker, CI/CD — for reproducible, production-ready ML
 - 🤖 Developing **ROS2** software for autonomous mobile robots with real-time IoT telemetry
 - 🌊 Engineering **streaming data pipelines** with Kafka & Spark Streaming
 - 📊 Designing **Power BI** dashboards and dimensional data models for enterprise BI
-- 🌱 Deepening my skills in **Azure Data Factory**, **Synapse Analytics**, and advanced DAX
+- 🌱 Currently deepening my skills in **Azure Data Factory**, **Synapse Analytics**, and advanced DAX
+- 📩 **Actively seeking Data Engineer / AI Engineer / ML Engineer opportunities** — let's talk!
 
 ---
 
@@ -223,12 +232,12 @@ class KhawlaBoughattas:
 
 ## 🎓 Education
 
-**🎓 Engineering Degree — Data Engineering & Decision Support Systems**
-ENET'Com, Sfax, Tunisia · 2023 – 2026
-> Focus: Machine Learning, statistics, data mining, decision support systems
+**🎓 Engineering Degree — Data Engineering & Decision Support Systems** ✅ *Graduated*
+National School of Electronics and Telecommunications of Sfax (ENET'Com), Tunisia · 2023 – 2026
+> Focus: Machine Learning, statistics, data mining, decision support systems, big data architectures
 
 **🎓 Preparatory Program — Mathematics, Physics & Chemistry**
-IPEIM, Monastir, Tunisia · 2021 – 2023
+Preparatory Institute for Engineering Studies of Monastir (IPEIM), Tunisia · 2021 – 2023
 
 ---
 
@@ -261,6 +270,8 @@ IPEIM, Monastir, Tunisia · 2021 – 2023
 ## 📬 Let's Connect
 
 <div align="center">
+
+### 🟢 Actively seeking Data Engineer / AI Engineer / ML Engineer roles
 
 📧 **boughattaskhawla@gmail.com** &nbsp;|&nbsp; 📱 **+216 52 815 515**
 
