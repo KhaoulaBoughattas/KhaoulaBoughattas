@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Khawla+Boughattas;Data+%26+AI+Engineer+%7C+Fresh+Graduate+2026;Turning+Data+into+Decisions%2C+Models+into+Impact;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 
 ### 🎯 Data Engineer · AI Engineer · Machine Learning Engineer
-**Engineering Degree in Data Engineering & Decision Support Systems — ENET'Com, Class of 2026**
+**Engineering Degree in Data Engineering & Decision Making Systems — ENET'Com, Class of 2026**
 
 <p>
   <img src="https://img.shields.io/badge/🟢_Open_to_Work-success?style=for-the-badge" />
